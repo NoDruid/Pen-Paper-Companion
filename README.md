@@ -1,1 +1,1 @@
-# Pen-Paper-Companion
+# Pen&Paper Companion
