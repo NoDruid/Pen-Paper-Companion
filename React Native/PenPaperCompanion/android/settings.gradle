@@ -1,0 +1,3 @@
+rootProject.name = 'PenPaperCompanion'
+
+include ':app'
